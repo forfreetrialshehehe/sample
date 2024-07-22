@@ -13,3 +13,5 @@ function setChange(){
 function doosriBranch(){
     console.log("This is the doosri branch");
 }
+
+console.log("this is the second commit in the new branch");
