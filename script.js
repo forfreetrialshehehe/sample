@@ -9,3 +9,7 @@ function sub(a,b){
 function setChange(){
     console.log(`THIS IS THE CHANGE I AM MAKING`);
 }
+
+function doosriBranch(){
+    console.log("This is the doosri branch");
+}
